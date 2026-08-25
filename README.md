@@ -1,180 +1,123 @@
-# Hi, I'm David Cárdenas 👋
+# <div align="center">Hi 👋, I'm David Cárdenas</div>
 
-### Full Stack & Mobile Developer | Flutter · .NET · Angular
+### <div align="center">Full Stack & Mobile Developer from Colombia</div>
 
-I'm a software developer focused on building **web, mobile, and backend solutions** using modern technologies.
-
-My main areas of experience include **Flutter mobile development, .NET backend services, Angular applications, REST API integrations, SQL databases, and Azure cloud services**.
-
-I also have experience working with **Android-based RFID devices**, integrating mobile applications with specialized hardware and backend systems.
+<div align="center">
+I build web and mobile applications with <b>Flutter, .NET, Angular, SQL, and Azure</b>,  
+with experience integrating APIs, backend services, and Android/RFID devices.
+</div>
 
 ---
 
-## 🚀 Core Technologies
-
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/Cardenaspe456?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/Cardenaspe456)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cardenaspe456\&style=for-the-badge)](https://github.com/Cardenaspe456)
 
 </div>
 
 ---
 
-## 🧩 Tech Stack
+## <div align="center">Connect with me</div>
 
-### 📱 Mobile
+<div align="center">
 
-* **Flutter / Dart** — Cross-platform mobile application development
-* **Android** — Development, debugging, and integration with physical devices
-* **RFID Devices** — Integration with specialized Android RFID hardware
-* **REST APIs** — Communication between mobile applications and backend services
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-c%C3%A1rdenas-p%C3%A9rez-830379200/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cardenasp456@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Cardenaspe456)
 
-### ⚙️ Backend
-
-* **C# / .NET** — Backend applications and business logic
-* **ASP.NET Core** — RESTful APIs and web services
-* **Entity Framework** — Data access and persistence
-* **API Integrations** — Internal and third-party service integrations
-
-### 🌐 Frontend
-
-* **Angular** — Modern and responsive web applications
-* **TypeScript** — Maintainable and strongly typed frontend development
-* **JavaScript**
-* **HTML / CSS**
-
-### 🗄️ Databases
-
-* **SQL Server**
-* **PostgreSQL**
-* **MySQL**
-
-### ☁️ Cloud & DevOps
-
-* **Microsoft Azure**
-* **Azure Static Web Apps**
-* **GitHub Actions**
-* **CI/CD**
-* **Git**
-* **Application monitoring and troubleshooting**
+</div>
 
 ---
 
-## 🔨 Selected Work
+## <div align="center">About Me</div>
 
-### 📦 Retail & RFID Mobile Solutions
-
-Development and maintenance of mobile applications used for retail and inventory operations with **Flutter and Android RFID devices**.
-
-Some of the areas I've worked on include:
-
-* RFID tag reading and device integration
-* Inventory and stock-taking workflows
-* Mobile-to-backend API communication
-* Error handling and application debugging
-* Synchronization with backend services
-* SQL data analysis and troubleshooting
-* Integration with .NET APIs
-
-**Stack:** `Flutter` · `Dart` · `Android` · `RFID` · `.NET` · `REST APIs` · `SQL`
+* 💻 Full Stack Developer with experience in **.NET, Angular, Flutter, and SQL**
+* 📱 My main mobile stack is **Flutter**
+* 🔗 Experienced in **REST API integration** and backend communication
+* 📡 Worked with **Android RFID devices** and mobile-hardware integrations
+* ☁️ Familiar with **Azure**, **GitHub Actions**, and deployment workflows
+* 🤖 I use **ChatGPT, Codex, and Cursor** to support development workflows
+* 🌱 Currently strengthening my skills in **mobile development, backend architecture, and cloud solutions**
 
 ---
 
-### ⚖️ LP Consulting
+## <div align="center">Languages and Tools</div>
 
-Development, deployment, and ongoing maintenance of the website for a Colombian legal consulting firm.
+<div align="center">
 
-🌐 [lpconsulting.com.co](https://www.lpconsulting.com.co/)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,angular,ts,js,html,css,git,github,azure,mysql,postgres)](https://skillicons.dev)
 
-My work includes:
+</div>
 
-* Website development and maintenance
-* Azure Static Web Apps deployment
-* GitHub Actions CI/CD
-* Google Tag Manager integration
+---
+
+## <div align="center">What I Work On</div>
+
+* 📱 Cross-platform mobile applications with **Flutter**
+* ⚙️ Backend development with **C# / .NET**
+* 🌐 Web applications with **Angular**
+* 🗄️ Database work with **SQL Server, PostgreSQL, and MySQL**
+* ☁️ Cloud deployment and support with **Azure**
+* 🔄 CI/CD workflows with **GitHub Actions**
+* 🧩 Integration between **mobile apps, APIs, databases, and Android devices**
+
+---
+
+## <div align="center">Featured Work</div>
+
+### 📌 LP Consulting
+
+Development, deployment, and maintenance of a legal services website.
+
+* Azure Static Web Apps
+* GitHub Actions
+* Google Tag Manager
 * Google Analytics 4
-* SEO improvements
-* Google Ads integration and tracking
-* Production support and continuous improvements
+* SEO and Google Ads support
 
-**Stack:** `Web` · `Azure Static Web Apps` · `GitHub Actions` · `GA4` · `GTM`
+🔗 [lpconsulting.com.co](https://www.lpconsulting.com.co/)
 
 ---
 
-## 🤖 AI-Assisted Development
+### 📌 Retail / RFID Mobile Solutions
 
-I use AI tools as part of my software development workflow to improve productivity while keeping technical decisions, implementation, and validation under my control.
+Development and maintenance of mobile applications for retail inventory workflows using **Flutter** and **Android RFID devices**.
 
-Tools I regularly use include:
-
-* **OpenAI Codex**
-* **ChatGPT**
-* **Cursor**
-
-I use them for:
-
-* Code analysis and exploration
-* Debugging
-* Refactoring
-* Test generation
-* Documentation
-* Architecture discussions
-* SQL query assistance
-* Reviewing implementation alternatives
+* RFID integration
+* Inventory flows
+* API communication
+* SQL analysis
+* Backend integration with .NET
 
 ---
 
-## 🎯 Current Focus
-
-I'm currently focused on strengthening my experience in:
-
-* **Flutter mobile development**
-* **Full Stack development with .NET and Angular**
-* **Backend architecture and API design**
-* **Cloud solutions with Azure**
-* **CI/CD and application monitoring**
-* **AI-assisted software engineering**
-* **Integration between mobile apps, APIs, databases, and physical Android devices**
-
----
-
-## 📊 GitHub Activity
+## <div align="center">GitHub Stats</div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cardenaspe456\&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cardenaspe456\&show_icons=true\&theme=dark\&count_private=true)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardenaspe456\&show_icons=true\&theme=tokyonight\&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaspe456\&layout=compact\&theme=tokyonight)
 
 </div>
 
 ---
 
-## 👨‍💻 GitHub Profiles
+## <div align="center">Other GitHub Profile</div>
 
-Most of my work is distributed across two GitHub accounts:
+<div align="center">
 
-| Profile        | Username                                           | Focus                           |
-| -------------- | -------------------------------------------------- | ------------------------------- |
-| **Primary**    | [@Cardenaspe456](https://github.com/Cardenaspe456) | Full Stack & Mobile Development |
-| **Additional** | [@cardenasp456](https://github.com/cardenasp456)   | Projects & Contributions        |
+[![GitHub](https://img.shields.io/badge/Secondary_Profile-cardenasp456-181717?style=for-the-badge\&logo=github)](https://github.com/cardenasp456)
 
----
-
-## 📫 Let's Connect
-
-I'm open to opportunities involving **Full Stack Development, Flutter, .NET, Angular, backend development, and mobile applications**.
-
-* 📧 **Email:** [cardenasp456@gmail.com](mailto:cardenasp456@gmail.com)
-* 💼 **LinkedIn:** [David Cárdenas Pérez](https://www.linkedin.com/in/david-cárdenas-pérez-830379200/)
+</div>
 
 ---
 
-> Building software that connects **mobile applications, backend services, cloud infrastructure, and real-world devices**.
+## <div align="center">Let's Connect</div>
+
+<div align="center">
+
+📧 **Email:** [cardenasp456@gmail.com](mailto:cardenasp456@gmail.com)
+💼 **LinkedIn:** [David Cárdenas Pérez](https://www.linkedin.com/in/david-c%C3%A1rdenas-p%C3%A9rez-830379200/)
+
+</div>
