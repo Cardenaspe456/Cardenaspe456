@@ -1,23 +1,3 @@
-# <div align="center">Hi 👋, I'm David Cárdenas</div>
-
-### <div align="center">Full Stack & Mobile Developer from Colombia</div>
-
-<div align="center">
-I build web and mobile applications with <b>Flutter, .NET, Angular, SQL, and Azure</b>,  
-with experience integrating APIs, backend services, and Android/RFID devices.
-</div>
-
----
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Cardenaspe456?style=for-the-badge\&logo=github\&label=Followers)](https://github.com/Cardenaspe456)
-[![Profile Views](https://komarev.com/ghpvc/?username=Cardenaspe456\&style=for-the-badge)](https://github.com/Cardenaspe456)
-
-</div>
-
----
-
 ## <div align="center">Connect with me</div>
 
 <div align="center">
