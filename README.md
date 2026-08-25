@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## <div align="center">Languages and Tools</div>
 
 <div align="center">
@@ -17,8 +15,6 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,angular,ts,js,html,css,git,github,azure,mysql,postgres)](https://skillicons.dev)
 
 </div>
-
----
 
 ## <div align="center">GitHub Stats</div>
 
@@ -28,8 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardenaspe456\&layout=compact\&theme=tokyonight)
 
 </div>
-
----
 
 ## <div align="center">Other GitHub Profile</div>
 
