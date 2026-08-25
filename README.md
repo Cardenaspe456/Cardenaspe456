@@ -20,22 +20,6 @@
 
 ---
 
-## <div align="center">Featured Work</div>
-
-### LP Consulting
-
-Development, deployment, and maintenance of a legal services website.
-
-* Azure Static Web Apps
-* GitHub Actions
-* Google Tag Manager
-* Google Analytics 4
-* SEO and Google Ads support
-
-🔗 [lpconsulting.com.co](https://www.lpconsulting.com.co/)
-
----
-
 ## <div align="center">GitHub Stats</div>
 
 <div align="center">
