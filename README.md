@@ -30,18 +30,6 @@ with experience integrating APIs, backend services, and Android/RFID devices.
 
 ---
 
-## <div align="center">About Me</div>
-
-* 💻 Full Stack Developer with experience in **.NET, Angular, Flutter, and SQL**
-* 📱 My main mobile stack is **Flutter**
-* 🔗 Experienced in **REST API integration** and backend communication
-* 📡 Worked with **Android RFID devices** and mobile-hardware integrations
-* ☁️ Familiar with **Azure**, **GitHub Actions**, and deployment workflows
-* 🤖 I use **ChatGPT, Codex, and Cursor** to support development workflows
-* 🌱 Currently strengthening my skills in **mobile development, backend architecture, and cloud solutions**
-
----
-
 ## <div align="center">Languages and Tools</div>
 
 <div align="center">
@@ -49,18 +37,6 @@ with experience integrating APIs, backend services, and Android/RFID devices.
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,angular,ts,js,html,css,git,github,azure,mysql,postgres)](https://skillicons.dev)
 
 </div>
-
----
-
-## <div align="center">What I Work On</div>
-
-* 📱 Cross-platform mobile applications with **Flutter**
-* ⚙️ Backend development with **C# / .NET**
-* 🌐 Web applications with **Angular**
-* 🗄️ Database work with **SQL Server, PostgreSQL, and MySQL**
-* ☁️ Cloud deployment and support with **Azure**
-* 🔄 CI/CD workflows with **GitHub Actions**
-* 🧩 Integration between **mobile apps, APIs, databases, and Android devices**
 
 ---
 
@@ -77,18 +53,6 @@ Development, deployment, and maintenance of a legal services website.
 * SEO and Google Ads support
 
 🔗 [lpconsulting.com.co](https://www.lpconsulting.com.co/)
-
----
-
-### 📌 Retail / RFID Mobile Solutions
-
-Development and maintenance of mobile applications for retail inventory workflows using **Flutter** and **Android RFID devices**.
-
-* RFID integration
-* Inventory flows
-* API communication
-* SQL analysis
-* Backend integration with .NET
 
 ---
 
@@ -111,13 +75,3 @@ Development and maintenance of mobile applications for retail inventory workflow
 
 </div>
 
----
-
-## <div align="center">Let's Connect</div>
-
-<div align="center">
-
-📧 **Email:** [cardenasp456@gmail.com](mailto:cardenasp456@gmail.com)
-💼 **LinkedIn:** [David Cárdenas Pérez](https://www.linkedin.com/in/david-c%C3%A1rdenas-p%C3%A9rez-830379200/)
-
-</div>
