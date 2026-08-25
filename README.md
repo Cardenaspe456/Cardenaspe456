@@ -42,7 +42,7 @@ with experience integrating APIs, backend services, and Android/RFID devices.
 
 ## <div align="center">Featured Work</div>
 
-### 📌 LP Consulting
+### LP Consulting
 
 Development, deployment, and maintenance of a legal services website.
 
